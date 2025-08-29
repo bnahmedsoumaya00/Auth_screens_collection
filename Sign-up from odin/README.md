@@ -1,8 +1,10 @@
 # Odin Sign-Up Form Project
 
 ## 📌 Overview
-This is a sign-up form project from **The Odin Project** curriculum.  
-It demonstrates HTML form structure, CSS styling for inputs and layout, and basic JavaScript for password validation.
+
+This is a sign-up form project from **The Odin Project** curriculum. It demonstrates HTML form structure, CSS styling for inputs and layout, and basic JavaScript for password validation.
+
+This page is part of a continuous journey and collection of authentication pages, each built using different technologies. Upcoming pages will feature React, Vue.js, Node.js, Express, MongoDB, and Firebase.
 
 The design includes:
 - A left sidebar with a background image and logo.
@@ -22,20 +24,10 @@ This sign-up page is part of a continuous journey and a growing collection of au
 
 ## 🛠️ Technologies Used & Planned
 
-This project uses:
+### Technologies Used
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) HTML5
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) CSS3
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
-
-Upcoming pages will feature:
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) React
-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) Vue.js
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js
-- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) Express
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) Firebase
-
-Stay tuned for more authentication pages and implementations using these technologies!
 >
 > ### Assignment Steps
 > 1. **Set up and planning**

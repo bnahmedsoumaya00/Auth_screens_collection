@@ -64,5 +64,5 @@ The design includes:
 ---
 
 ## 📜 Credits
-- **Background image**: [Halie West on Unsplash](https://unsplash.com/photos/green-fern-leaves-haliewest)
+- **Background image**: [Halie West on Unsplash](https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA)
 - **Logo**: The Odin Project resources

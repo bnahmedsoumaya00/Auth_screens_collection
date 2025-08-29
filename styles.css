@@ -130,7 +130,7 @@ button:hover {
 }
 
 .login-text {
-  grid-column: span 2;
+  grid-column: span 2;;
   font-size: 1rem;
   margin-top: 18px;
   text-align: left;
@@ -139,3 +139,4 @@ a{
     color: white;
     /* text-decoration: none; */
 }
+.log{color: #596D48;font-weight: bold;}

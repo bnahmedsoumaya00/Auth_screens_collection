@@ -16,6 +16,26 @@ The design includes:
 **From the assignment:**
 
 > This project is intended to give you a chance to flex some of the new items you’ve been absorbing over the past few lessons. This time it’s a sign-up form for an imaginary service.
+# 🚀 Authentication Journey
+
+This sign-up page is part of a continuous journey and a growing collection of authentication pages, each built using different technologies. The goal is to explore, compare, and master various approaches to user authentication and UI/UX design across modern web stacks.
+
+## 🛠️ Technologies Used & Planned
+
+This project uses:
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) CSS3
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) JavaScript
+
+Upcoming pages will feature:
+- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) React
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) Vue.js
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) Express
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) MongoDB
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) Firebase
+
+Stay tuned for more authentication pages and implementations using these technologies!
 >
 > ### Assignment Steps
 > 1. **Set up and planning**
